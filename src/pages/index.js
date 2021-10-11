@@ -189,5 +189,3 @@ export default function index() {
 //     </main>
 //   )
 // }
-
-export default IndexPage
