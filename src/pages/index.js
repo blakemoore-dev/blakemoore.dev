@@ -4,7 +4,7 @@ export default function index() {
   return (
     <div>
     <title>Blake Moore</title>
-     testing 123
+    <h1>testing 123</h1>
     </div>
   )
 }
