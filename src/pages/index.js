@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function index() {
   return (
+    <title>Blake Moore</title>
     <div>
      testing 123
     </div>
