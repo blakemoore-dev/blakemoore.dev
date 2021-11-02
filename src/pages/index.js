@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 
 export default function index() {
   return (
-    <Layout pageTitle="Home"></Layout>
+    <Layout pageTitle="testing"></Layout>
   )
 }
 
